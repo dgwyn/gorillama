@@ -1,2 +1,5 @@
 github.com/defn/shlib/v2 v2.0.1 h1:fuCTag8dkyoRpgehw1v8SbqtQx5b64e7u9CoQaLKd00=
 github.com/defn/shlib/v2 v2.0.1/go.mod h1:ZJEmMeUJ2iXdeFDEFnlvaHy2OdVnHJpdMwElaAdPRJk=
+github.com/defn/shlib/v2 v2.0.2 h1:N68ZGkLI184QrcbIBZygN4Mn5Q7UWOu97n3sa4nkPb4=
+github.com/defn/shlib/v2 v2.0.2/go.mod h1:21bmeIxrmSdAouZhexVwlPx1zambyUR0FT5qCswelZM=
+github.com/dgwyn/gorillama v0.0.0-20200911005608-c0ffc4f50ed8/go.mod h1:/v07cuUi2B6f1u1OEfY2+TbHkXT/19fOGyeChgNI7I4=
